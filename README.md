@@ -12,18 +12,18 @@ After the basic course finished, we received some suggestions to improve the cur
 
 ### Sense Improvements
 
-#[checkbox:checked] Add more senses to the AI
-#[checkbox:checked] Expand the AI's sense of the environment
-#[checkbox:unchecked] Add additional tests to the EQS queries to make them more refined
+- [x] Add more senses to the AI
+- [x] Expand the AI's sense of the environment
+- [ ] Add additional tests to the EQS queries to make them more refined
 
 ### Think Improvements
 
-#[checkbox:unchecked] Simple parallels
-#[checkbox:unchecked] Existing decorator types
+- [ ] Simple parallels
+- [ ]Existing decorator types
 
 ### Actor Improvements
 
-#[checkbox:unchecked] Add a dedicated search behavior to the AI
-#[checkbox:unchecked] Create a basic patrol system
+- [ ] Add a dedicated search behavior to the AI
+- [ ] Create a basic patrol system
 
 
