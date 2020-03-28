@@ -19,7 +19,7 @@ After the basic course finished, we received some suggestions to improve the cur
 ### Think Improvements
 
 - [ ] Simple parallels
-- [ ]Existing decorator types
+- [ ] Existing decorator types
 
 ### Actor Improvements
 
